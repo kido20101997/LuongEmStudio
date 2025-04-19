@@ -1,0 +1,20 @@
+00:00:00.014146 VirtualBox NAT Network 4.1.34 r832605632 win.amd64 (Jul 26 2022 16:16:15) release log
+00:00:00.014148 Log opened 2024-12-08T03:05:30.526582200Z
+00:00:00.014149 Build Type: release
+00:00:00.014153 OS Product: Windows 11
+00:00:00.014154 OS Release: 10.0.22631
+00:00:00.014154 OS Service Pack: 
+00:00:00.035559 DMI Product Name: Precision 5540
+00:00:00.038805 DMI Product Version: 
+00:00:00.038815 Firmware type: UEFI
+00:00:00.039571 Secure Boot: Disabled
+00:00:00.039580 Host RAM: 32463MB (31.7GB) total, 14399MB (14.0GB) available
+00:00:00.039588 Executable: C:\Program Files\ldplayer9box\VBoxNetNAT.exe
+00:00:00.039588 Process ID: 28264
+00:00:00.039589 Package type: WINDOWS_64BITS_GENERIC (OSE)
+00:00:00.061285 SUP: Opened Ld9VMMR0.r0 (C:\Program Files\ldplayer9box\Ld9VMMR0.r0) at 0xXXXXXXXXXXXXXXXX loaded by the native ring-0 loader.
+00:00:00.061302 SUP: windbg> .reload /f C:\Program Files\ldplayer9box\Ld9VMMR0.r0=0xXXXXXXXXXXXXXXXX
+00:00:00.063578 netif NT0: mac 52:54:00:12:35:00
+00:00:00.063594 netif NT0: inet 172.16.1.1 netmask 255.255.255.0
+00:00:00.063600 netif NT0: inet6 fe80::5054:ff:fe12:3500
+00:00:00.063606 netif NT0: inet6 fd17:625c:f037:1001::1
